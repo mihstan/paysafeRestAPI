@@ -1,0 +1,4 @@
+paysafe:
+  url: https://api.test.paysafe.com/threedsecure
+  user: devcentre322
+  password: B-qa2-0-53625f86-302c021476f52bdc9deab7aea876bb28762e62f92fc671e2d0214736abf501e9675e55940e83ef77f5c304edc7968
